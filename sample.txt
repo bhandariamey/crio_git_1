@@ -1,9 +1,9 @@
-pune - 12
-manmad - 34
-nashik - 11
-malegaon - 99
+pune 
+manmad
+nashik
+malegaon
 
-kochi
-kerela
-banglore
-pondicherry
+kochi - 1
+kerela - 2
+banglore - 3
+pondicherry - 4
