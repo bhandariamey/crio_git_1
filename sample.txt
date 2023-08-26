@@ -1,7 +1,7 @@
-pune
-manmad
-nashik
-malegaon
+pune - 12
+manmad - 34
+nashik - 11
+malegaon - 99
 
 kochi
 kerela
